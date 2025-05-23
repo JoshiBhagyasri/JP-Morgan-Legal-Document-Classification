@@ -20,7 +20,8 @@ Lawyers and loan officers spend 360,000+ hours yearly reviewing contracts, prone
 6. Deployment  
 
 ## Project Report  
-Detailed project report is available in the file [JP-Morgan_Project_Report.pdf](./JP-Morgan_Project_Report.pdf).
+- 📄 [Problem Statement PDF](./Course1-Data%20Analysis%20of%20JP%20MORGAN/Course%201%20Project%20Problem%20Statement.pdf)  
+- 📄 [Solution PDF](./Course1-Data%20Analysis%20of%20JP%20MORGAN/PROJECT%20ANALYSIS%20-%201.pdf)
 
 ## Key Learnings  
 - Translating business problem into analytics tasks  
